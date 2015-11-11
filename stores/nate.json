@@ -1,0 +1,26 @@
+{
+    "activily-frontend": "0.0.1",
+    "timestamp": "",
+    "user-responses": [
+        {
+            "responses": [
+                {
+                    "Who": "on a date",
+                    "Age": "over 21",
+                    "PhysicalActivity": "moderate",
+                    "location": {
+                            "lat": 36.964506,
+                            "lng": -122.02063,
+                            "radius": 5
+                    },
+
+                    "Cost": {
+                        min: 10,
+                        max: 25
+                    }
+                }
+            ]
+        }
+    
+    ]
+}
